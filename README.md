@@ -1,4 +1,4 @@
-# Machine learning and data analysis (Coursera)
+# Machine Learning and Data Analysis (Coursera)
 Practical tasks from Machine learning and data analysis specialization from Coursera by Moscow Institute of Physics and Technology and Yandex.
 
 It is divided on 6 courses represented by folders in this repository. 
